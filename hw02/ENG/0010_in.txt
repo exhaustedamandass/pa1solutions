@@ -1,0 +1,4 @@
+ea|babab
+d|abaca
+|ba
+|aba

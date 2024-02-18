@@ -1,0 +1,9 @@
+Train A arrival time:
+Train A departure time:
+Train B arrival time:
+Train B departure time:
+Train C arrival time:
+Train C departure time:
+Can change to both B and C from A.
+Can change to C from B.
+Can change to B from C.

@@ -1,0 +1,43 @@
++ 2023-11-10 10 Short_review
++ 2023-11-10 73 Long_review
++ 2023-11-10 15 Negative_review
++ 2023-11-11 45 Some_text
++ 2023-11-16 42 Useless_comment
++ 2023-11-16 98 Fake_review
+? 1
+? 2
+? 6
+? 20
+# 1
+# 2
++ 2023-11-16 15 Updated_review
++ 2023-11-17 120 Sponsored
+# 6
++ 2023-11-17 1 Not_sponsored
+# 6
++ 2023-11-17 1 Not_sponsored
+# 6
++ 2023-11-17 1 Not_sponsored
+# 6
++ 2023-11-17 1800 Sponsored
+# 6
++ 2023-11-17 1800 Sponsored
+# 6
++ 2023-11-17 1800 Sponsored
+# 6
++ 2023-11-17 1801 Sponsored
+# 6
++ 2023-11-17 1802 Sponsored
+# 6
++ 2023-11-17 1803 Sponsored
+# 6
++ 2023-11-17 1804 Sponsored
+# 6
++ 2023-11-17 1805 Sponsored
+# 6
++ 2023-11-17 1806 Sponsored
+# 6
++ 2023-11-17 180000 Bribed
+# 6
++ 2023-11-17 180000000 Hacked
+# 6

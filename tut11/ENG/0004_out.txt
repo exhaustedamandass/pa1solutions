@@ -1,0 +1,4 @@
+Coins:
+Amounts:
+= 1
+Invalid input.

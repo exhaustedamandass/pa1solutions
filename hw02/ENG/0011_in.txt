@@ -1,0 +1,3 @@
+a|a
+dcbaa|caacbacbaa
+fbcbcedacacbaa|caacbaa

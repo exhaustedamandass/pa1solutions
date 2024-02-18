@@ -1,0 +1,6 @@
+Enter string:
+String is a palindrome (case-sensitive).
+String is a palindrome (case-insensitive).
+String is a palindrome (case-sensitive).
+String is not a palindrome.
+String is a palindrome (case-insensitive).

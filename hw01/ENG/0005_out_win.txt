@@ -1,0 +1,3 @@
+Train A arrival time:
+Train A departure time:
+Invalid input.

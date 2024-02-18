@@ -1,0 +1,7 @@
+Coins:
+Amounts:
+= no solution
+= 1
+= 1
+= 2
+= 2
